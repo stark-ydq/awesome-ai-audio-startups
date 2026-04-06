@@ -11,6 +11,7 @@
 - **[TuneFlow](https://tuneflow.com/)** - 自动生成歌词、旋律和鼓点，还能像专业 DAW 一样编辑混音。  
 - **[CassetteAI](https://cassetteAI.com)** - AI 驱动的音乐制作平台，可制作歌词、节奏和人声并直接发布。  
 - **[AIVA](https://www.aiva.ai)** - 用人工智能创作情感配乐。  
+- **[voicetoinstrument.com](https://voicetoinstrument.com)** - 用 AI 将人声转换为乐器音轨。  
 - **[beatoven.ai](https://www.beatoven.ai)** - 简化的音乐创作工具，适合视频和播客。  
 - **[Infinite Album](https://www.infinitealbum.io)** - 为游戏直播设计的自适应 AI 音乐。  
 - **[Epidemic Sound](https://www.epidemicsound.com)** - 提供高质量、版权完整的音乐和音效。  
